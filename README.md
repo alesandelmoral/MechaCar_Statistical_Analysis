@@ -23,6 +23,7 @@ Although there are still unconsidered factors, this model does predict the mpg o
 ## Summary Statistics on Suspension Coils
 
 ![Summary1](https://github.com/alesandelmoral/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.PNG)
+
 ![Summary2](https://github.com/alesandelmoral/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.PNG)
 
 
